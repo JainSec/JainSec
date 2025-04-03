@@ -18,8 +18,8 @@ I believe in the power of curiosity, both in tech and life. Let’s connect, col
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Free Code Camp Certification Projects</b>
-  - [Mean-Variance-Standard Deviation Calculator](https://github.com/JainSec/boilerplate-mean-variance-standard-deviation-calculator))
-  - [Demographic Data Analyser](https://github.com/JainSec/boilerplate-medical-data-visualizer))
+  - [Mean-Variance-Standard Deviation Calculator](https://github.com/JainSec/boilerplate-mean-variance-standard-deviation-calculator)
+  - [Demographic Data Analyser](https://github.com/JainSec/boilerplate-medical-data-visualizer)
   - [Page View Time Series Visualiser](https://github.com/JainSec/boilerplate-page-view-time-series-visualizer)
   - [Sea Level Predictor](https://github.com/JainSec/boilerplate-sea-level-predictor)
 
