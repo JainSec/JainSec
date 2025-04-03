@@ -29,6 +29,14 @@ I believe in the power of curiosity, both in tech and life. Let’s connect, col
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="PulkitJain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/pkitofficial
+<p align="left">
+  <a href="https://linkedin.com/in/pkitofficial" target="_blank">
+    <img alt="PulkitJain | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: brightness(0) invert(1);" />
+  </a>
+  <a href="https://github.com/jainsec" target="_blank">
+    <img alt="PulkitJain | GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="filter: brightness(0) invert(1);" />
+  </a>
+  <a href="https://www.kaggle.com/jainsec" target="_blank">
+    <img alt="PulkitJain | Kaggle" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" style="filter: brightness(0) invert(1);" />
+  </a>
+</p>
