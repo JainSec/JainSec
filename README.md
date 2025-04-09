@@ -27,6 +27,10 @@ I believe in the power of curiosity, both in tech and life. Let’s connect, col
 
 - <b> Coming soon! </b>
 
+<h2>👨‍💻 JavaScript Projects:</h2>
+
+- <b> Coming soon! </b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <p align="left">
