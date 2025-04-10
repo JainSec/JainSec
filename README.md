@@ -23,11 +23,12 @@ I believe in the power of curiosity, both in tech and life. Let’s connect, col
   - [Page View Time Series Visualiser](https://github.com/JainSec/boilerplate-page-view-time-series-visualizer)
   - [Sea Level Predictor](https://github.com/JainSec/boilerplate-sea-level-predictor)
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
-
-- <b> Coming soon! </b>
-
 <h2>👨‍💻 JavaScript Projects:</h2>
+
+  - [Role Playing Game](https://github.com/JainSec/Role-Playing-Game-in-JavaScript)
+  - [Calorie Counter](https://github.com/JainSec/Calorie-Counter)
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Coming soon! </b>
 
